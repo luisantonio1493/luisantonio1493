@@ -4,13 +4,10 @@
 
 ### 🛠 Tecnologías que utilizo:
 - **Frontend:** HTML, CSS, JavaScript, Angular
-- **Backend:** Node.js, Express, Supabase
-- **Bases de Datos:** PostgreSQL, MongoDB
+- **Backend:** .NET, C#, Node.js, Express, Supabase
+- **Bases de Datos:** SQL, SQL Server
 - **Herramientas:** Git, Vercel, Azure
 
-### 🌱 Actualmente aprendiendo:
-- Desarrollo de SaaS con Angular y Supabase.
-
 ### 📫 Contáctame:
-- [LinkedIn](https://linkedin.com/in/tuusuario)
-- [Email](mailto:tuemail@dominio.com)
+- [LinkedIn](https://linkedin.com/in/lsuarezroque)
+- [Email](mailto:luisantonio1493@gmail.com)
