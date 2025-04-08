@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre]
 
-<!--
-**luisantonio1493/luisantonio1493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador Full Stack** con experiencia en aplicaciones web modernas.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologías que utilizo:
+- **Frontend:** HTML, CSS, JavaScript, Angular
+- **Backend:** Node.js, Express, Supabase
+- **Bases de Datos:** PostgreSQL, MongoDB
+- **Herramientas:** Git, Vercel, Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Actualmente aprendiendo:
+- Desarrollo de SaaS con Angular y Supabase.
+
+### 📫 Contáctame:
+- [LinkedIn](https://linkedin.com/in/tuusuario)
+- [Email](mailto:tuemail@dominio.com)
