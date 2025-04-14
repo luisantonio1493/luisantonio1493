@@ -4,7 +4,7 @@
 
 ### 🛠 Tecnologías que utilizo:
 - **Frontend:** HTML, CSS, JavaScript, Angular
-- **Backend:** .NET, C#, Node.js, Express, Supabase
+- **Backend:** .NET, C#, Node.js, Bun, Hono, Supabase
 - **Bases de Datos:** SQL, SQL Server
 - **Herramientas:** Git, Vercel, Azure
 
