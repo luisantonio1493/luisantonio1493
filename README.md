@@ -53,8 +53,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lsuarezroque&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsuarezroque&layout=compact&langs_count=7&theme=tokyonight"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisantonio1493&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luisantonio1493&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisantonio1493&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
@@ -80,7 +83,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lsuarezroque)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisantonio1493@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lsuarezroque)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisantonio1493)
 
 </div>
 
@@ -94,6 +97,6 @@
 
 ---
 
-⭐ **From [Luis Suárez](https://github.com/lsuarezroque)** with ❤️
+⭐ **From [Luis Suárez](https://github.com/luisantonio1493)** with ❤️
 
 </div>
