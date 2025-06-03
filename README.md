@@ -13,7 +13,7 @@
 **🇺🇸 English:**
 > Passionate Full Stack Developer with expertise in modern web technologies. I love creating efficient, scalable solutions and bringing ideas to life through code. Always eager to learn new technologies and tackle challenging projects.
 
-**🇪🇸 Español:**
+**🇵🇷 Español:**
 > Desarrollador Full Stack apasionado con experiencia en tecnologías web modernas. Me encanta crear soluciones eficientes y escalables, dando vida a las ideas a través del código. Siempre dispuesto a aprender nuevas tecnologías y enfrentar proyectos desafiantes.
 
 ---
@@ -56,7 +56,7 @@
 - 🔨 Building full-stack applications with modern technologies
 - 🚀 Exploring cloud architectures and serverless solutions
 
-**🇪🇸 Actualmente:**
+**🇵🇷 Actualmente:**
 - 🌱 Aprendiendo nuevos frameworks y mejorando mis habilidades
 - 🔨 Construyendo aplicaciones full-stack con tecnologías modernas
 - 🚀 Explorando arquitecturas en la nube y soluciones serverless
@@ -79,10 +79,10 @@
 
 ### 💼 Open to opportunities | Abierto a oportunidades
 **🇺🇸** *Feel free to reach out if you want to collaborate on interesting projects!*  
-**🇪🇸** *¡No dudes en contactarme si quieres colaborar en proyectos interesantes!*
+**🇵🇷** *¡No dudes en contactarme si quieres colaborar en proyectos interesantes!*
 
 ---
 
-⭐ **From Ponce, Puerto Rico 🇵🇷 with ❤️
+⭐ From Ponce, Puerto Rico 🇵🇷 with ❤️
 
 </div>
