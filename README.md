@@ -83,6 +83,6 @@
 
 ---
 
-⭐ **From [Luis Suárez](https://github.com/luisantonio1493)** with ❤️
+⭐ **From Ponce, Puerto Rico 🇵🇷 with ❤️
 
 </div>
