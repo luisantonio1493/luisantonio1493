@@ -47,21 +47,7 @@
 
 </div>
 
----
 
-## 📊 GitHub Stats | Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisantonio1493&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luisantonio1493&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisantonio1493&theme=tokyonight&hide_border=true&background=0d1117)
-
-</div>
-
----
 
 ## 🎯 What I'm Working On | En Qué Estoy Trabajando
 
